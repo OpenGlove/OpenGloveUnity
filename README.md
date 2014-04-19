@@ -3,6 +3,6 @@ OpenGloveUnity
 
 A Unity Package for integreation with open glove
 
-[OpenGlove.org](openglove.org)
+[OpenGlove.org](http://www.openglove.org)
 
-[Project Log](openglove.wordpress.com)
+[Project Log](http://www.openglove.wordpress.com)
